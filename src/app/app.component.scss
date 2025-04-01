@@ -1,0 +1,17 @@
+.main-titles{
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+    word-spacing: 20px;
+}
+.main-divider {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    // border: 2px solid lightgray;
+    text-align: center;
+  }
+  .second-divder {
+    display: flex;
+    word-spacing: 10px;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+  }
